@@ -1,4 +1,4 @@
-<p align="center"><img alt="BatemaDevelopment Banner" src="./assets/BatemaDevelopment.PNG" /></p>
+<p align="center"><img alt="BatemaDevelopment Banner" src="/profile/assets/BatemaDevelopment.PNG" /></p>
 <h1 align="center">BatemaDevelopment</h1>
 <h3 align="center">Keeping Code Public | Established: January 17, 2021</h3>
 

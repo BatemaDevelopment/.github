@@ -37,8 +37,5 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
-### My Recent YouTube Videos (All of my Channels)
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!--END_SECTION:activity-->

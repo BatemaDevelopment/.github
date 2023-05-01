@@ -15,5 +15,6 @@ jobs:
       - uses: BatemaDevelopment/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USERNAME: 'Lukas-Batema'
         with:
           TARGET_FILE: /profile/README.md
